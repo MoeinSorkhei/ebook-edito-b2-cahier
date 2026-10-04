@@ -1,0 +1,9 @@
+{
+  "name": "Édito B2 — Cahier d'activités",
+  "short_name": "Édito B2 Cahier",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f2",
+  "theme_color": "#b8607e",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png" }]
+}
